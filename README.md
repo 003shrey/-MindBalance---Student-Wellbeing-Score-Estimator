@@ -96,13 +96,13 @@ Keep the backend running, then open `index.html` in a browser.
 The current frontend is configured to use the deployed API at:
 
 ```text
-https://mansik-santulan-score.onrender.com
+https://mindbalance-student-wellbeing-score.onrender.com/
 ```
 
 If you want the frontend to use your local backend, open `script.js` and change:
 
 ```javascript
-const API_BASE = "https://mansik-santulan-score.onrender.com";
+const API_BASE = "https://mindbalance-api-d9n2.onrender.com/";
 ```
 
 to:
